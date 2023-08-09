@@ -50,5 +50,10 @@ After seeing this we extract this information:
 -However, the /billing-2 page has more orders, which convert in a higher billing to order conversion rate.
 
 
+### Exercise 3:
+This is an exercise I did by myself with the objective of understanding how the change from /billig to /billig-2 impacted the sales. I plan to compare the amount of money the customers invested on the webpage in the split test.
+It is possible to observe that the /billing-2 was able to raise more money for the business. 
+
+![image](https://github.com/IhonaMaria/Conversion-funnel-analysis/assets/119692820/dc9d3a3b-05e5-480c-9524-f52118564ea4)
 
 
